@@ -1,0 +1,82 @@
+{
+  "banner": [
+    {
+      "id": "1",
+      "title": "banner01",
+      "url": "/images/banner/banner01.jpg"
+    },
+    {
+      "id": "2",
+      "title": "banner02",
+      "url": "/images/banner/banner02.jpg"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "icon": "/images/cate/cate01.png",
+      "name": "手机通讯"
+    },
+    {
+      "id": "2",
+      "icon": "/images/cate/cate02.png",
+      "name": "家用电器"
+    },
+    {
+      "id": "3",
+      "icon": "/images/cate/cate03.png",
+      "name": "家具建材"
+    },
+    {
+      "id": "4",
+      "icon": "/images/cate/cate04.png",
+      "name": "户外运动"
+    },
+    {
+      "id": "5",
+      "icon": "/images/cate/cate05.png",
+      "name": "精选商品"
+    },
+    {
+      "id": "6",
+      "icon": "/images/cate/cate06.png",
+      "name": "折扣商品"
+    },
+    {
+      "id": "7",
+      "icon": "/images/cate/cate07.png",
+      "name": "优惠券"
+    },
+    {
+      "id": "8",
+      "icon": "/images/cate/cate08.png",
+      "name": "活动"
+    }
+  ],
+  "goods": [
+    {
+      "id": "1",
+      "title": "小米11Pro",
+      "buy_price": 4999.0,
+      "line_price": 4999.0,
+      "images": [
+        "/images/goods/goods-img1-1.jpg",
+        "/images/goods/goods-img1-2.jpg",
+        "/images/goods/goods-img1-3.jpg"
+      ],
+      "cate": "2"
+    },
+    {
+      "id": "2",
+      "title": "小米10S",
+      "buy_price": 3299.0,
+      "line_price": 3299.0,
+      "images": [
+        "/images/goods/goods-img2-1.jpg",
+        "/images/goods/goods-img2-2.jpg",
+        "/images/goods/goods-img2-3.jpg"
+      ],
+      "cate": "3"
+    }
+  ]
+}
